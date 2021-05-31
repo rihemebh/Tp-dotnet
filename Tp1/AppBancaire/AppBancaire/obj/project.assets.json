@@ -9,22 +9,25 @@
   },
   "packageFolders": {
     "C:\\Users\\rihem\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rihem\\Desktop\\Tp-dotnet\\AppBancaire\\AppBancaire\\AppBancaire.csproj",
+      "projectUniqueName": "C:\\Users\\rihem\\Desktop\\GL3\\sem2\\.Net\\Tp-dotnet\\Tp1\\AppBancaire\\AppBancaire\\AppBancaire.csproj",
       "projectName": "AppBancaire",
-      "projectPath": "C:\\Users\\rihem\\Desktop\\Tp-dotnet\\AppBancaire\\AppBancaire\\AppBancaire.csproj",
+      "projectPath": "C:\\Users\\rihem\\Desktop\\GL3\\sem2\\.Net\\Tp-dotnet\\Tp1\\AppBancaire\\AppBancaire\\AppBancaire.csproj",
       "packagesPath": "C:\\Users\\rihem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rihem\\Desktop\\Tp-dotnet\\AppBancaire\\AppBancaire\\obj\\",
+      "outputPath": "C:\\Users\\rihem\\Desktop\\GL3\\sem2\\.Net\\Tp-dotnet\\Tp1\\AppBancaire\\AppBancaire\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
         "C:\\Users\\rihem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -65,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,13 @@
+C:\Users\rihem\Desktop\GL3\sem2\.Net\Tp-dotnet\Tp1\AppBancaire\AppBancaire\bin\Debug\netcoreapp3.1\AppBancaire.exe
+C:\Users\rihem\Desktop\GL3\sem2\.Net\Tp-dotnet\Tp1\AppBancaire\AppBancaire\bin\Debug\netcoreapp3.1\AppBancaire.deps.json
+C:\Users\rihem\Desktop\GL3\sem2\.Net\Tp-dotnet\Tp1\AppBancaire\AppBancaire\bin\Debug\netcoreapp3.1\AppBancaire.runtimeconfig.json
+C:\Users\rihem\Desktop\GL3\sem2\.Net\Tp-dotnet\Tp1\AppBancaire\AppBancaire\bin\Debug\netcoreapp3.1\AppBancaire.runtimeconfig.dev.json
+C:\Users\rihem\Desktop\GL3\sem2\.Net\Tp-dotnet\Tp1\AppBancaire\AppBancaire\bin\Debug\netcoreapp3.1\AppBancaire.dll
+C:\Users\rihem\Desktop\GL3\sem2\.Net\Tp-dotnet\Tp1\AppBancaire\AppBancaire\bin\Debug\netcoreapp3.1\AppBancaire.pdb
+C:\Users\rihem\Desktop\GL3\sem2\.Net\Tp-dotnet\Tp1\AppBancaire\AppBancaire\obj\Debug\netcoreapp3.1\AppBancaire.csproj.AssemblyReference.cache
+C:\Users\rihem\Desktop\GL3\sem2\.Net\Tp-dotnet\Tp1\AppBancaire\AppBancaire\obj\Debug\netcoreapp3.1\AppBancaire.AssemblyInfoInputs.cache
+C:\Users\rihem\Desktop\GL3\sem2\.Net\Tp-dotnet\Tp1\AppBancaire\AppBancaire\obj\Debug\netcoreapp3.1\AppBancaire.AssemblyInfo.cs
+C:\Users\rihem\Desktop\GL3\sem2\.Net\Tp-dotnet\Tp1\AppBancaire\AppBancaire\obj\Debug\netcoreapp3.1\AppBancaire.csproj.CoreCompileInputs.cache
+C:\Users\rihem\Desktop\GL3\sem2\.Net\Tp-dotnet\Tp1\AppBancaire\AppBancaire\obj\Debug\netcoreapp3.1\AppBancaire.dll
+C:\Users\rihem\Desktop\GL3\sem2\.Net\Tp-dotnet\Tp1\AppBancaire\AppBancaire\obj\Debug\netcoreapp3.1\AppBancaire.pdb
+C:\Users\rihem\Desktop\GL3\sem2\.Net\Tp-dotnet\Tp1\AppBancaire\AppBancaire\obj\Debug\netcoreapp3.1\AppBancaire.genruntimeconfig.cache
