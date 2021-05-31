@@ -1,0 +1,15 @@
+C:\Users\rihem\Desktop\GL3\sem2\.Net\Tp-dotnet\Tp2\code\code\bin\Debug\code.exe.config
+C:\Users\rihem\Desktop\GL3\sem2\.Net\Tp-dotnet\Tp2\code\code\bin\Debug\code.exe
+C:\Users\rihem\Desktop\GL3\sem2\.Net\Tp-dotnet\Tp2\code\code\bin\Debug\code.pdb
+C:\Users\rihem\Desktop\GL3\sem2\.Net\Tp-dotnet\Tp2\code\code\bin\Debug\EntityFramework.dll
+C:\Users\rihem\Desktop\GL3\sem2\.Net\Tp-dotnet\Tp2\code\code\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rihem\Desktop\GL3\sem2\.Net\Tp-dotnet\Tp2\code\code\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\rihem\Desktop\GL3\sem2\.Net\Tp-dotnet\Tp2\code\code\bin\Debug\EntityFramework.xml
+C:\Users\rihem\Desktop\GL3\sem2\.Net\Tp-dotnet\Tp2\code\code\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rihem\Desktop\GL3\sem2\.Net\Tp-dotnet\Tp2\code\code\obj\Debug\code.csproj.AssemblyReference.cache
+C:\Users\rihem\Desktop\GL3\sem2\.Net\Tp-dotnet\Tp2\code\code\obj\Debug\code.csproj.CoreCompileInputs.cache
+C:\Users\rihem\Desktop\GL3\sem2\.Net\Tp-dotnet\Tp2\code\code\obj\Debug\code.csproj.CopyComplete
+C:\Users\rihem\Desktop\GL3\sem2\.Net\Tp-dotnet\Tp2\code\code\obj\Debug\code.exe
+C:\Users\rihem\Desktop\GL3\sem2\.Net\Tp-dotnet\Tp2\code\code\obj\Debug\code.pdb
+C:\Users\rihem\Desktop\GL3\sem2\.Net\Tp-dotnet\Tp2\code\code\obj\Debug\code.Migrations.init.resources
+C:\Users\rihem\Desktop\GL3\sem2\.Net\Tp-dotnet\Tp2\code\code\obj\Debug\code.csproj.GenerateResource.cache
